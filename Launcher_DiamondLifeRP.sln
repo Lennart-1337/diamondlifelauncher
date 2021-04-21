@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher_DiamondLifeRP", "Launcher_DiamondLifeRP.csproj", "{1B55860C-6B1D-47C5-81C4-373B64B13168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B55860C-6B1D-47C5-81C4-373B64B13168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B55860C-6B1D-47C5-81C4-373B64B13168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B55860C-6B1D-47C5-81C4-373B64B13168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B55860C-6B1D-47C5-81C4-373B64B13168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2854B9D6-C04C-4E6B-B294-431C3EDA93B8}
+	EndGlobalSection
+EndGlobal
